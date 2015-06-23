@@ -11,7 +11,7 @@ var webpack = require('gulp-webpack');
 // Static server
 gulp.task('browser-sync', function() {
     browserSync.init({
-        port: 5777,
+        port: 5888,
         server: {
             baseDir: "."
         }

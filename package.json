@@ -33,8 +33,11 @@
     "lodash": "^3.9.3",
     "material-ui": "^0.9.1",
     "react": "^0.13.3",
+    "react-draggable": "^0.8.1",
     "react-dropzone": "^1.2.1",
     "react-grid-layout": "^0.8.3",
+    "react-resizable": "^0.4.2",
+    "react-simple-toolbar": "^1.0.5",
     "react-tap-event-plugin": "^0.1.7",
     "toastr": "^2.0.4"
   },
