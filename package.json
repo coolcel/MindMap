@@ -1,0 +1,43 @@
+{
+  "name": "RasikKatta-UI",
+  "version": "0.0.1",
+  "description": "Web Portal user interface for RasikKatta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.com:ganeshp0001/RasikKatta-UI.git"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.7.1",
+    "connect-history-api-fallback": "^1.1.0",
+    "css-loader": "^0.14.4",
+    "gulp": "^3.8.11",
+    "gulp-plumber": "^1.0.0",
+    "gulp-sass": "^2.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-webpack": "^1.4.0",
+    "jsx-loader": "^0.13.2",
+    "node-libs-browser": "^0.5.0",
+    "object-assign": "^2.0.0",
+    "react-router": "^0.13.3",
+    "react-tools": "^0.13.3",
+    "reflux": "^0.2.7",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.9.4"
+  },
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "lodash": "^3.9.3",
+    "material-ui": "^0.9.1",
+    "react": "^0.13.3",
+    "react-dropzone": "^1.2.1",
+    "react-grid-layout": "^0.8.3",
+    "react-tap-event-plugin": "^0.1.7",
+    "toastr": "^2.0.4"
+  },
+  "author": "Ganesh M. Patil (CodeSphere Solutions)",
+  "license": "Copyright CodeSphere Solutions"
+}
